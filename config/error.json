@@ -1,0 +1,152 @@
+{
+  "4000": {
+    "statusCode": 400,
+    "message": "게시글이 조회에 실패하셨습니다" 
+  },
+  "4001": {
+    "statusCode": 400,
+    "message": "게시글 작성에 실패하셨습니다"
+  },
+  "4002": {
+    "statusCode": 400,
+    "message": "게시글 수정에 실패하셨습니다"
+  },
+  "4003": {
+    "statusCode": 400,
+    "message": "게시글 삭제에 실패하였습니다" 
+  },
+  "4004": {
+    "statusCode": 400,
+    "message": "게시글 좋아요에 실패하였습니다" 
+  },
+  "4005": {
+    "statusCode": 400,
+    "message": "좋아요 게시글 조회에 실패하였습니다"
+  },
+  "4006": {
+    "statusCode": 400,
+    "message": "요청한 데이터 형식이 올바르지 않습니다"
+  },
+  "4007": {
+    "statusCode": 400,
+    "message": "댓글이 존재하지 않습니다"
+  },
+  "4008": {
+    "statusCode": 400,
+    "message": "댓글 조회에 실패하였습니다"
+  },
+  "4009": {
+    "statusCode": 400,
+    "message": "댓글 작성에 실패하였습니다"
+  },
+  "4010": {
+    "statusCode": 400,
+    "message": "댓글 삭제에 실패하셨습니다"
+  },
+  "4011": {
+    "statusCode": 400,
+    "message": "댓글 삭제가 정상적으로 처리되지 않았습니다"
+  },
+  "4012": {
+    "statusCode": 400,
+    "message": "댓글 수정이 정상적으로 처리되지 않았습니다"
+  },
+  "4013": {
+    "statusCode": 400,
+    "message": "댓글 수정에 실패하셨습니다"
+  },
+
+  "4014": {
+    "statusCode": 400,
+    "message": "로그인에 실패하셨습니다"
+  },
+  "4016":{
+    "statusCode": 403,
+    "message": "로그인이 필요한 기능입니다."
+  }, 
+  "4017":{
+    "statusCode": 403,
+    "message": "전달된 쿠키에서 오류가 발생하였습니다."
+  }, 
+  "4018":{
+    "statusCode": 403,
+    "message": "게시글 수정 권한이 존재하지 않습니다."
+  }, 
+  "4019":{
+    "statusCode": 403,
+    "message": "게시글의 삭제 권한이 존재하지 않습니다."
+  },
+  "4022":{
+    "statusCode": 404,
+    "message": "게시글이 존재하지 않습니다."
+  },
+  "4023":{
+    "statusCode": 400,
+    "message": "회원가입 실패"
+  },
+  "4024":{
+    "statusCode": 412,
+    "message": "닉네임 또는 패스워드를 확인해주세요"
+  },
+    "4025":{
+    "statusCode": 412,
+    "message": "중복된 닉네임입니다"
+  },
+  "4026":{
+    "statusCode": 419,
+    "message": "accessToken 생성 오류?!?!?@"
+  },
+  "4027":{
+    "statusCode": 419,
+    "message": "중복된 닉네임입니다"
+  },
+
+  "5000": {
+    "statusCode": 500,
+    "message": "Sequelize 게시글 조회 Error"
+  },
+  "5001": {
+    "statusCode": 500,
+    "message": "Sequelize 게시글 생성 Error"
+  },
+  "5002": {
+    "statusCode": 500,
+    "message": "Sequelize 게시글 업데이트 Error"
+  },
+  "5003": {
+    "statusCode": 500,
+    "message": "Sequelize 게시글 삭제 Error"
+  },
+  "5004": {
+    "statusCode": 500,
+    "message": "Sequelize 댓글 조회 Error"
+  },
+  "5005": {
+    "statusCode": 500,
+    "message": "Sequelize 댓글 생성 Error"
+  },
+  "5006": {
+    "statusCode": 500,
+    "message": "Sequelize 댓글 업데이트 Error"
+  },
+  "5007": {
+    "statusCode": 500,
+    "message": "Sequelize 댓글 삭제 Error"
+  },
+    "5008": {
+    "statusCode": 500,
+    "message": "Sequelize 좋아요 조회 Error"
+  },
+    "5009": {
+    "statusCode": 500,
+    "message": "Sequelize 내 좋아요 확인 Error"
+  },
+    "5010": {
+    "statusCode": 500,
+    "message": "Sequelize 회원가입 유저 생성 Error"
+  },
+    "5011": {
+    "statusCode": 500,
+    "message": "Sequelize 유저 조회 Error"
+  }
+}
